@@ -1,0 +1,10 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+.bg-primary {background-color: #8E44AD !important;}
+.bg-dark {background-color: #c5b358 !important;}
+Body,H1,H2,H3{font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;}
+.nav-pills a{color: white}
+.nav-pills a:hover{color:#8E44AD !important;}
+
+.nav {background-color: #c5b358 !important;}
